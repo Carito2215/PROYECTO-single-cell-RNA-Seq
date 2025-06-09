@@ -5,6 +5,7 @@
 
 ![image](https://github.com/user-attachments/assets/096afa6e-1ce9-4a9a-9d27-31e5c165f553)
 
+![image](https://github.com/user-attachments/assets/084e3d5f-61fc-4068-bb15-9d985580d065)
 
 Este proyecto tiene como objetivo analizar datos transcriptómicos a nivel de célula individual para explorar la heterogeneidad celular en un tejido o condición experimental utilizando herramientas como **Seurat**, **Scanpy**, y visualización en UMAP/t-SNE.
 
